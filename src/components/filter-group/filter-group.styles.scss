@@ -1,0 +1,19 @@
+.filter-group{
+
+  padding-top: 2%;
+  margin-left: 2%;
+  margin-right: 2%;
+
+  width: 100%;
+  //display: flex;
+  //flex-wrap: wrap;
+  //flex-direction: column;
+  //margin-bottom: 30px;
+
+  h2 {
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+}
