@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/HW1-First-Gen-Pokemon-React/static/css/main.9656cbd2.chunk.css",
+    "main.js": "/HW1-First-Gen-Pokemon-React/static/js/main.d5b9d400.chunk.js",
+    "main.js.map": "/HW1-First-Gen-Pokemon-React/static/js/main.d5b9d400.chunk.js.map",
+    "runtime-main.js": "/HW1-First-Gen-Pokemon-React/static/js/runtime-main.af5358d0.js",
+    "runtime-main.js.map": "/HW1-First-Gen-Pokemon-React/static/js/runtime-main.af5358d0.js.map",
+    "static/js/2.310089c9.chunk.js": "/HW1-First-Gen-Pokemon-React/static/js/2.310089c9.chunk.js",
+    "static/js/2.310089c9.chunk.js.map": "/HW1-First-Gen-Pokemon-React/static/js/2.310089c9.chunk.js.map",
+    "index.html": "/HW1-First-Gen-Pokemon-React/index.html",
+    "static/css/main.9656cbd2.chunk.css.map": "/HW1-First-Gen-Pokemon-React/static/css/main.9656cbd2.chunk.css.map",
+    "static/js/2.310089c9.chunk.js.LICENSE.txt": "/HW1-First-Gen-Pokemon-React/static/js/2.310089c9.chunk.js.LICENSE.txt",
+    "static/media/logo.e57f7ae6.svg": "/HW1-First-Gen-Pokemon-React/static/media/logo.e57f7ae6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af5358d0.js",
+    "static/js/2.310089c9.chunk.js",
+    "static/css/main.9656cbd2.chunk.css",
+    "static/js/main.d5b9d400.chunk.js"
+  ]
+}
